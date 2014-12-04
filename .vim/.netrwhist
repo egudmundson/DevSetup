@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/atomizer/encoder/bin'
+let g:netrw_dirhist_2='/home/atomizer/encoder'
+let g:netrw_dirhist_3='/home/atomizer/encoder/Atomizer'
+let g:netrw_dirhist_4='/home/atomizer/encoder/Atomizer/Bricks'
+let g:netrw_dirhist_5='/home/atomizer/encoder/lib/libqmx'
+let g:netrw_dirhist_6='/var/log/move/devenc015_6'
+let g:netrw_dirhist_7='/home/atomizer/encoder/lib/nielsenid3tag'
