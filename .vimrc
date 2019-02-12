@@ -1,4 +1,4 @@
-source /home/atomizer/.vim/cscope_maps.vim
+source ~/.vim/cscope_maps.vim
 set number
 set autoindent
 set incsearch
@@ -16,3 +16,4 @@ set sw=4
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set background=dark
